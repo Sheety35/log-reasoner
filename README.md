@@ -1,4 +1,4 @@
-markdown# 🧠 Log Reasoner — Log Anomaly Detection using Transformer + LLM Explanations
+# 🧠 Log Reasoner — Log Anomaly Detection using Transformer + LLM Explanations
 
 This project implements an end-to-end **log anomaly detection pipeline** using:
 - **Transformer**-based neural models for anomaly classification
@@ -119,3 +119,8 @@ pip install torch numpy pandas matplotlib
 **Sheety35** — 2025  
 GitHub: [Sheety35](https://github.com/Sheety35)
 
+---
+
+## 📄 License
+
+MIT License
